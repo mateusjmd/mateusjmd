@@ -135,8 +135,8 @@ Sou graduando no Bacharelado em Ciência e Tecnologia pela [**Ilum – Escola de
 | [**Ilum**](https://github.com/mateusjmd/Ilum) | Repositório acadêmico unificado com produções ao longo da graduação |
 | [**Δ-XTB**](https://github.com/mateusjmd/delta-xTB) | Projeto final em Aprendizado de Máquina — Modelagem e avaliação computacional (2025.2) |
 | [**Langevin**](https://github.com/mateusjmd/Langevin) | Projeto final em Equações Diferenciais — Sistemas estocásticos e simulação numérica (2025.2) |
-| [**Modelo SIR**](https://github.com/mateusjmd/Modelo-SIR) | Projeto em Práticas em Ciência de Dados — Modelagem epidemiológica (2025.1) |
-| [**SVD**](https://github.com/mateusjmd/SVD) | Álgebra Linear Computacional — Decomposições matriciais e aplicações (2025.1) |
+| [**Modelo SIR**](https://github.com/mateusjmd/Modelo-SIR) | Projeto final em Práticas em Ciência de Dados — Modelagem epidemiológica (2025.1) |
+| [**SVD**](https://github.com/mateusjmd/SVD) | Projeto final em Álgebra Linear Computacional — Decomposições matriciais e aplicações (2025.1) |
 
 ---
 

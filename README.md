@@ -137,29 +137,3 @@ Sou graduando no Bacharelado em Ciência e Tecnologia pela [**Ilum – Escola de
 | [**Langevin**](https://github.com/mateusjmd/Langevin) | Projeto final em Equações Diferenciais — Sistemas estocásticos e simulação numérica (2025.2) |
 | [**Modelo SIR**](https://github.com/mateusjmd/Modelo-SIR) | Projeto final em Práticas em Ciência de Dados — Modelagem epidemiológica (2025.1) |
 | [**SVD**](https://github.com/mateusjmd/SVD) | Projeto final em Álgebra Linear Computacional — Decomposições matriciais e aplicações (2025.1) |
-
----
-
-
-### 📊 Estatísticas
-
-<p>
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mateusjmd&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400&locale=pt-br" 
-  />
-
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

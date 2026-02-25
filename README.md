@@ -93,7 +93,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 | [**srcPINN**](https://github.com/mateusjmd/srcPINN) | Source term identifiability in parabolic PDEs via Physics-Informed Neural Networks (PyTorch) | ![Status](https://img.shields.io/badge/completed-2e7d32?style=flat-square) |
 | [**SwinCheX**](https://github.com/mateusjmd/SwinCheX) | Chest X-ray pathology classification using Swin Vision Transformer | ![Status](https://img.shields.io/badge/completed-2e7d32?style=flat-square) |
 | [**Δ-XTB**](https://github.com/mateusjmd/delta-xTB) | Delta-ML correction over GFN2-xTB energies to approximate DFT results — ML final project (2025.2) | ![Status](https://img.shields.io/badge/completed-2e7d32?style=flat-square) |
-| [**Langevin**](https://github.com/mateusjmd/Langevin) | Numerical simulation of stochastic dynamics via Langevin equations — ODE final project (2025.2) | ![Status](https://img.shields.io/badge/under\_construction-f5820f?style=flat-square) |
+| [**Langevin**](https://github.com/mateusjmd/Langevin) | Numerical simulation of stochastic dynamics via Langevin equations — ODE final project (2025.2) | ![Status](https://img.shields.io/badge/completed-2e7d32?style=flat-square) |
 | [**SIR Model**](https://github.com/mateusjmd/Modelo-SIR) | Epidemiological modeling fitted to real COVID-19 data — Data Science final project (2025.1) | ![Status](https://img.shields.io/badge/completed-2e7d32?style=flat-square) |
 | [**SVD**](https://github.com/mateusjmd/SVD) | Singular Value Decomposition applied to image compression and noise reduction — Linear Algebra final project (2025.1) | ![Status](https://img.shields.io/badge/under\_construction-f5820f?style=flat-square) |
 

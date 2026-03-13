@@ -25,7 +25,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 
 ---
 
-## 🔬 Current Experience
+## Current Experience
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
 <div align="center">
 
@@ -68,7 +68,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
@@ -99,7 +99,7 @@ My drive is to bridge mathematical rigor, scientific programming, and creativity
 
 ---
 
-## 🧭 Research Interests
+## Research Interests
 
 ```
 📡  Scientific imaging & computer vision              🧮  Differential equations & numerical simulation
